@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1404pt" height="1872pt" viewBox="0 0 1404 1872" version="1.1">
+<style type="text/css">
+    .background {fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;}
+    .line {fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;}
+    .title {font: bold 40px serif;}
+    .name {font: 40px serif;}
+</style>
+<g id="paper_background">
+    <rect class="background" x="0" y="0" width="1404" height="1872" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+</g>
+<g id="lines">
+    <!-- horizontal lines -->
+    <path class="line" d="M 0 312 l 1404 0"/>
+    <path class="line" d="M 0 377 l 1404 0"/>
+    <path class="line" d="M 0 442 l 1404 0"/>
+    <path class="line" d="M 0 507 l 1404 0"/>
+    <path class="line" d="M 0 572 l 1404 0"/>
+    <path class="line" d="M 0 637 l 1404 0"/>
+    <path class="line" d="M 0 702 l 1404 0"/>
+    <path class="line" d="M 0 767 l 1404 0"/>
+    <path class="line" d="M 0 832 l 1404 0"/>
+    <path class="line" d="M 0 897 l 1404 0"/>
+    <path class="line" d="M 0 962 l 1404 0"/>
+    <path class="line" d="M 0 1027 l 1404 0"/>
+    <path class="line" d="M 0 1092 l 1404 0"/>
+    <path class="line" d="M 0 1157 l 1404 0"/>
+    <path class="line" d="M 0 1222 l 1404 0"/>
+    <path class="line" d="M 0 1287 l 1404 0"/>
+    <path class="line" d="M 0 1352 l 1404 0"/>
+    <path class="line" d="M 0 1417 l 1404 0"/>
+    <path class="line" d="M 0 1482 l 1404 0"/>
+    <path class="line" d="M 0 1547 l 1404 0"/>
+    <path class="line" d="M 0 1612 l 1404 0"/>
+    <path class="line" d="M 0 1677 l 1404 0"/>
+    <path class="line" d="M 0 1742 l 1404 0"/>
+    <path class="line" d="M 0 1807 l 1404 0"/>
+
+    <!-- text -->
+    <text class="title" x="20" y="360">Suspects</text>
+    <text class="name" x="20" y="425">Colonel Mustard</text>
+    <text class="name" x="20" y="490">Professor Plum</text>
+    <text class="name" x="20" y="555">Reverend Green</text>
+    <text class="name" x="20" y="620">Mrs. Peacock</text>
+    <text class="name" x="20" y="685">Miss Scarlet</text>
+    <text class="name" x="20" y="750">Mrs. White</text>
+    
+    <text class="title" x="20" y="815">Weapons</text>
+    <text class="name" x="20" y="880">Knife</text>
+    <text class="name" x="20" y="945">Candle Stick</text>
+    <text class="name" x="20" y="1010">Revolver</text>
+    <text class="name" x="20" y="1075">Rope</text>
+    <text class="name" x="20" y="1140">Lead pipe</text>
+    <text class="name" x="20" y="1205">Wrench</text>
+    
+    <text class="title" x="20" y="1270">Rooms</text>
+    <text class="name" x="20" y="1335">Hall</text>
+    <text class="name" x="20" y="1400">Lounge</text>
+    <text class="name" x="20" y="1465">Dining Room</text>
+    <text class="name" x="20" y="1530">Kitchen</text>
+    <text class="name" x="20" y="1595">Ballroom</text>
+    <text class="name" x="20" y="1660">Conservatory</text>
+    <text class="name" x="20" y="1725">Billiard Room</text>
+    <text class="name" x="20" y="1790">Library</text>
+    <text class="name" x="20" y="1855">Study</text>
+
+    <!-- vertical lines -->
+    <path class="line" d="M 444 0 l 0 312"/>
+    <path class="line" d="M 604 0 l 0 312"/>
+    <path class="line" d="M 764 0 l 0 312"/>
+    <path class="line" d="M 924 0 l 0 312"/>
+    <path class="line" d="M 1084 0 l 0 312"/>
+    <path class="line" d="M 1244 0 l 0 312"/>
+
+    <path class="line" d="M 444 377 l 0 390"/>
+    <path class="line" d="M 604 377 l 0 390"/>
+    <path class="line" d="M 764 377 l 0 390"/>
+    <path class="line" d="M 924 377 l 0 390"/>
+    <path class="line" d="M 1084 377 l 0 390"/>
+    <path class="line" d="M 1244 377 l 0 390"/>
+
+    <path class="line" d="M 444 832 l 0 390"/>
+    <path class="line" d="M 604 832 l 0 390"/>
+    <path class="line" d="M 764 832 l 0 390"/>
+    <path class="line" d="M 924 832 l 0 390"/>
+    <path class="line" d="M 1084 832 l 0 390"/>
+    <path class="line" d="M 1244 832 l 0 390"/>
+
+    <path class="line" d="M 444 1287 l 0 585"/>
+    <path class="line" d="M 604 1287 l 0 585"/>
+    <path class="line" d="M 764 1287 l 0 585"/>
+    <path class="line" d="M 924 1287 l 0 585"/>
+    <path class="line" d="M 1084 1287 l 0 585"/>
+    <path class="line" d="M 1244 1287 l 0 585"/>
+</g>
+</svg>
